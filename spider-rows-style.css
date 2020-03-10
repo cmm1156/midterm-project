@@ -1,0 +1,59 @@
+
+
+.spider-full-body > div {
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  display: block;
+  object-fit:;
+  justify-content: center;
+  align-self: center;
+  background-position: center;
+  background-size: cover;
+
+  margin: 15px;
+}
+
+#spider-row-1 {
+  background-image: url(images/original-full.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+#spider-row-2 {
+  background-image: url(images/black-suit.jpg);
+}
+
+#spider-row-3 {
+background-image: url(images/ben-reilly.jpg);
+background-position:center;
+}
+
+#spider-row-4 {
+background-image: url(images/noir-full.jpg);
+}
+
+#spider-row-5 {
+background-image: url(images/scarlet-full.jpg);
+}
+
+#spider-row-6 {
+background-image: url(images/bulletpoint.jpg);
+}
+
+#spider-row-7 {
+background-image: url(images/morales.jpg);
+}
+
+#spider-row-8 {
+background-image: url(images/spiderg-full.jpg);
+background-position:center;
+}
+
+#spider-row-9 {
+background-image: url(images/spider-girl.jpg);
+}
+
+#spider-row-10 {
+background-image: url(images/superior.jpg);
+background-position: center;
+}
